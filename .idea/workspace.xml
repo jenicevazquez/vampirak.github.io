@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35e98c27-2e94-4dd0-b8f2-1a689a4fdc5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="vampirak.github.io.iws" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39972338">
-              <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.36514524">
+              <caret line="428" column="90" selection-start-line="428" selection-start-column="90" selection-end-line="428" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -160,8 +159,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39972338">
-          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.36514524">
+          <caret line="428" column="90" selection-start-line="428" selection-start-column="90" selection-end-line="428" selection-end-column="90" />
           <folding />
         </state>
       </provider>
